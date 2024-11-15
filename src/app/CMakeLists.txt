@@ -1,1 +1,1 @@
-add_executable(app app.cc)
+add_executable(app app.cpp)
